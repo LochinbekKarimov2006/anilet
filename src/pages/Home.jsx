@@ -31,7 +31,7 @@ function Home() {
      {!yurak&& <div onClick={()=>{yuraklr()}} className='absolute top-2 right-2'>
         <img className='w-[30px]' src="    https://cdn-icons-png.flaticon.com/512/508/508735.png " alt="" />
       </div>}
-      <div className='absolute text-[#030303] py-1 bottom-0 bg-[#ffffff29] w-full px-2'>
+      <div className='absolute text-[#030303] py-1 bottom-0 bg-[#ffffff29] w-full px-2 rounded-[10px]'>
       <p className='font-[700] -tracking-2 text-[16px]'>Nomi</p>
       <p className='font-[600] -tracking-[0.1px] leading-5 text-[13px]'>Olmas qirolning qayta tugilishi va sarguzashtlari</p>
       </div>
