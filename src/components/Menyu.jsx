@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 function Menyu() {
   return (
     <div className="w-[100%] flex justify-center ">
-      <div className=" fixed bottom-0 bg-[#adadae] w-full flex justify-evenly items-center  p-3">
+      <div className=" fixed bottom-0 bg-[#adadae] w-full flex justify-around items-center  p-3">
        
         <button>
         <NavLink to="/">
